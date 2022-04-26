@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Luhan",
-      "budget": "56777",
+      "name": "Projeto 1",
+      "budget": "3000",
       "category": {
         "id": "3",
         "name": "Desenvolvimento"
