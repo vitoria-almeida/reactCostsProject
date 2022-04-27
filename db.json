@@ -14,9 +14,23 @@
           "cost": "1200",
           "description": "criar um layout responsivo no figma",
           "id": "857c562f-9c94-41b1-985d-b56e0b16d30c"
+        },
+        {
+          "name": "aa",
+          "cost": "1234",
+          "description": "Layout Figma",
+          "id": "3429d9f2-294d-4f43-a2ec-c385d7560b32"
         }
       ],
-      "id": 2
+      "id": 2,
+      "sevices": [
+        {
+          "name": "layout figma",
+          "cost": "1200",
+          "description": "criar um layout responsivo no figma",
+          "id": "857c562f-9c94-41b1-985d-b56e0b16d30c"
+        }
+      ]
     },
     {
       "name": "Projeto ABC",
