@@ -7,8 +7,15 @@
         "id": "3",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1200,
+      "services": [
+        {
+          "name": "layout figma",
+          "cost": "1200",
+          "description": "criar um layout responsivo no figma",
+          "id": "857c562f-9c94-41b1-985d-b56e0b16d30c"
+        }
+      ],
       "id": 2
     },
     {
